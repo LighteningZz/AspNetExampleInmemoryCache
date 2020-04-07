@@ -82,6 +82,7 @@ namespace ExampleCache.Controllers
 }
 ```
 
+ตัวอย่าง result
 
 ```json
 [
